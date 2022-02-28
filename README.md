@@ -1,2 +1,5 @@
 # sinopia
-本地仓库
+自建本地仓库
+
+# install
+$ npm install sinopia
