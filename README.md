@@ -5,6 +5,8 @@
 $ npm install sinopia -g
 $ npm install nrm -g
 
+> 由于版本问题，sinopia报错需要补全回调参数，例如修改fs.unlink(tmp)为fs.unlink(tmp, function() {})
+
 # 设置本地地址，建议使用本机IP
 $ npm set registry http://localhost:4873/
 
