@@ -20,6 +20,9 @@ $ npm adduser --registry http://localhost:4873/
 # 使用webpack-simple创建无路由项目模板，开发公共组件，删除冗余文件
 $ npm install webpack-simple -g
 
+$ vue init webpack-simple CustomeComponent
+
+
 > 发布
 
 $ npm login
