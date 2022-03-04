@@ -35,13 +35,15 @@ $ npm publish
 > 安装
 
 $ npm install 'bond-type'
+
 $ npm install 'public-component'
 
 > 使用
 
 $ import BondType from 'bond-type';
+
 $ import PublicComponent from 'public-component';
 
 $ <bond-type :onSelect="change"></bond-type>
-$ <public-component :publicComponentName="name"></public-component> 
 
+$ <public-component :publicComponentName="name"></public-component> 
